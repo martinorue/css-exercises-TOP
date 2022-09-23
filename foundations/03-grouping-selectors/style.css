@@ -1,0 +1,19 @@
+/* add rules for styles that both elements share */
+/* in common? */
+/* unique? */
+.btn-1, 
+.btn-2{
+    font-size: 28px;
+    border-radius: 15px;
+    font-family: Helvetica, "Times New Roman", sans-serif;    
+}
+
+.btn-1{
+    background-color: black;
+    color: white;
+}
+
+.btn-2{
+    background-color: yellow;
+}
+
